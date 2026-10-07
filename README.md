@@ -4,11 +4,11 @@
 
 I wrote an Inventory App for an Inventory Management System with a navigation bar to Add, View, Update and Delete products. When starting the test server on my computer i type python manage.py runserver and the development server is at http://127.0.0.1:8000 and will open the Inventory App.
 
-The Purpose of writing my Python-Django project is soecifically to learn the CRUD operations which I had challenges i doing all along
+The Purpose of writing my Python-Django project is specifically to learn the how to Add, View, Update and Delete products in python. operations which I had challenges i doing all along
 
 {Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running (starting the server and navigating through the web pages) and a walkthrough of the code.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video]: https://www.loom.com/share/84622f17786d4c9e9769b33cf835eecc
 
 # Web Pages
 
@@ -20,7 +20,7 @@ Product-Form: Name; SKU; Price; Quantity; Supplier and when I save the product i
 Tools used to develop the Software: 
 Django Migration Engine: CLI tools run via python manage.py makemigrations and python manage.py migrate schema-track changes automatically the tables safely and update with the right information.
 
-Programming language used is Python and library i used id django
+Programming language used is Python and library I used is Django
 
 # Useful Websites
 
